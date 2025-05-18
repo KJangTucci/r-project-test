@@ -1,8 +1,8 @@
 # R Project
 
-[![GitHub license](https://img.shields.io/github/license/KJangTucci/R-Project.svg)](https://github.com/KJangTucci/R-Project/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/KJangTucci/R-Project.svg)](https://github.com/KJangTucci/R-Project/issues)
-[![GitHub stars](https://img.shields.io/github/stars/KJangTucci/R-Project.svg)](https://github.com/KJangTucci/R-Project/stargazers)
+[![GitHub license](https://img.shields.io/github/license/KJangTucci/r-project-test.svg)](https://github.com/KJangTucci/r-project-test/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/KJangTucci/r-project-test.svg)](https://github.com/KJangTucci/r-project-test/issues)
+[![GitHub stars](https://img.shields.io/github/stars/KJangTucci/r-project-test.svg)](https://github.com/KJangTucci/r-project-test/stargazers)
 
 ## Project Structure
 
