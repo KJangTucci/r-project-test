@@ -1,0 +1,36 @@
+# R .RData
+.RData
+.Rhistory
+.Rprofile
+.Rproj.user
+# RStudio
+.RData
+.Rhistory
+.Rproj.user/
+# R Markdown
+_cache/
+*.html
+*.pdf
+*.word
+*.docx
+*.pptx
+# R Package
+.Rinstignore
+.Rbuildignore
+.Rcheck/
+.Rprofile
+.Rproj.user/
+# Environment
+.venv/
+env/
+venv/
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+# Logs
+*.log
+# OS
+.DS_Store
+Thumbs.db
